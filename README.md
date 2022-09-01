@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ashiqur.dream@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ashikurrohman)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/ashikurrohman)
 
 - ⚡ Fun fact **Crazy**
 
