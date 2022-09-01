@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashikur Rahman</h1>
-<h3 align="center"> MERN Stack Developer | Security Researcher | Digital Marketer</h3>
+<h3 align="center"> MERN Stack Developer | Security Researcher | Data Driven Digital Marketer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikurrohman&label=Profile%20views&color=0e75b6&style=flat" alt="ashikurrohman" /> </p>
 
@@ -9,11 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Security Engineering**
 
-- 💬 Ask me about **React,NodeJS,MongoDB,MySql,Security Flaws**
-
 - 📫 How to reach me **ashiqur.dream@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ashikurrohman](https://www.linkedin.com/in/ashikurrohman)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ashikurrohman)
 
 - ⚡ Fun fact **Crazy**
 
