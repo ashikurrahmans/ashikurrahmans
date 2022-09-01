@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikurrohman&label=Profile%20views&color=0e75b6&style=flat" alt="ashikurrohman" /> </p>
 
-- 🔭 I’m currently working on **MarketingClaw**
+- 🔭 I’m Frontend Developer at **Open Surface**
 
-- 🌱 I’m currently learning **MERN Stack,Python,C,C++**
+- 🌱 MERN Stack Developer And Passionate with Problem Solving
 
-- 👯 I’m looking to collaborate on **Security Engineering project**
+- 👯 I’m looking to collaborate on **Security Engineering**
 
 - 💬 Ask me about **React,NodeJS,MongoDB,MySql,Security Flaws**
 
