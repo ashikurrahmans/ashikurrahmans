@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikurrohman&label=Profile%20views&color=0e75b6&style=flat" alt="ashikurrohman" /> </p>
 
-- 🔭 I’m Frontend Developer at **Open Surface**
+- 🔭 Search Engine Optimization Expert **Oyelloo**
 
 - 🌱 MERN Stack Developer And Passionate with Problem Solving
 
