@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikurrohman&label=Profile%20views&color=0e75b6&style=flat" alt="ashikurrohman" /> </p>
 
-- 🔭 Search Engine Optimization Expert **Oyelloo**
+- 🔭 Search Engine Optimization Expert **Oyolloo**
 
 - 🌱 MERN Stack Developer And Passionate with Problem Solving
 
