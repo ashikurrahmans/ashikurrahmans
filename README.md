@@ -5,7 +5,7 @@
 
 - 🔭 Search Engine Optimization Expert **Oyolloo**
 
-- 🌱 MERN Stack Developer And Passionate with Problem Solving
+- 🌱 Security Researcher at Hackerone
 
 - 👯 I’m looking to collaborate on **Security Engineering**
 
