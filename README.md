@@ -5,7 +5,7 @@
 
 - 🔭 Search Engine Optimization Expert **Oyolloo**
 
-- 🌱 Security Researcher at ""HackerOne""
+- 🌱 Security Researcher at **HackerOne**
 
 - 👯 I’m looking to collaborate on **Security Engineering**
 
