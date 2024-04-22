@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikurrohman&label=Profile%20views&color=0e75b6&style=flat" alt="ashikurrohman" /> </p>
 
+- 🔭 Digital Marketing Trainer **Soft-tech IT**
+
 - 🔭 Search Engine Optimization Expert **Oyolloo**
 
 - 🌱 Security Researcher at **HackerOne**
